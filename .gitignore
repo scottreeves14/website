@@ -1,3 +1,6 @@
 .venv
 db.sqlite3
 __pycache__/*
+website/django_project/__pycache__/*
+website/pages/__pycache__/*
+website/pages/migrations/__pycache__/__init__.cpython-312.pyc
